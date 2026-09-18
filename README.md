@@ -23,20 +23,6 @@
 
 ---
 
-## 👥 Infosys Project Team & Member Contributions
-
-We are proud to present **OmniFranchise**, a collaborative enterprise solution engineered by our 3-member team:
-
-| Team Member | GitHub Profile | Role & Key Technical Focus | Commits Authored | Contribution % |
-| :--- | :--- | :--- | :---: | :---: |
-| 🧑‍💻 **Abhishek Pattnaik** | [@AbhishekPattnaik124](https://github.com/AbhishekPattnaik124) | **Full-Stack & ML Architect** — UI/UX Glassmorphic Design System, FastAPI ML Microservice (Prophet / XGBoost / Isolation Forest), 23+ Heavy Enterprise Operations Modals, War Room Boardroom Kiosk, Multi-Store Arena, Margin Sensitivity Matrix, PDF Studio, CCTV AI Vision Sentinel, Recipe BOM Variance, Royalty Evasion Auditor, Aggregator Reconciler, Equipment SLA, Statutory Shield, Multi-Channel Notification Engine (Email, SMS, Circuit Breaker, SLA Escalation Engine), Notification Hub Offline-Resilient Fallback Layer, Custom Glassmorphic Dropdown Architecture & 12+ Domain Visualizations | **112 Commits 💯** | **64.0%** |
-| 👩‍💻 **Chandana S** | [@Chandana-Projects](https://github.com/Chandana-Projects) | **Full-Stack Lead & Project Admin** — Repository Owner & Git Administration, Express 5 REST API Gateway, PostgreSQL Prisma ORM Schemas & Migrations, JWT Authentication & RBAC Filters, Action Plans REST API (`/api/action-plans`), Web Push VAPID Subscription Engine (`/api/push`), and Core Backend Modules | **35 Commits** | **20.0%** |
-| 👩‍💻 **Mamta Choudhary** | [@mamta072703](https://github.com/mamta072703) | **Software Engineer & QA Lead** — Inventory Telemetry Analytics, Reorder Threshold Alerts, HACCP Food Safety Compliance Audits, Automated Purchase Order (PO) Workflows, Jest & Supertest Automated API Test Suites (18/18 Passing), Frontend QA, Notification Action Plans Studio & Member 3 Integration Guide (`Member3_WorkGuide.md`) | **28 Commits** | **16.0%** |
-
-> 📊 **Total Repository History**: **175 Commits** across frontend, backend REST APIs, machine learning pipelines, test automation, database schemas, notification resilience, and UI responsive architecture.
-
----
-
 ## 🏆 Project & Team Performance Rating
 
 ### 🌟 Project Evaluation: 10 / 10 (Gold Master Enterprise Grade)
