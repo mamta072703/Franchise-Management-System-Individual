@@ -1,7 +1,6 @@
 # 🏢 OmniFranchise (FranchiseOpsAI) — Enterprise Franchise Intelligence Network
 
 > **Infosys Internship Team Capstone Project 2026**  
-> **Repository**: [Chandana-Projects/FranchiseManagementSystem](https://github.com/Chandana-Projects/FranchiseManagementSystem)  
 > **Milestone**: 🏆 **Gold Master Release v1.0.0 • 175 Commits Milestone (112+ Lead Architect Century Commits 💯)**
 
 [![Infosys Internship](https://img.shields.io/badge/Infosys-Team_Capstone_Project-blue?logo=infosys)](https://www.infosys.com/)
